@@ -1,0 +1,22 @@
+body{
+    margin-left: 38%;
+    background: rgb(126, 102, 233);
+}
+.list{
+    font-size: 18px;
+    font-weight: 800;
+}
+#list{
+    color: rgb(202, 20, 20);
+    margin-left: 20px;
+}
+
+.main #list,
+.main .heading{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
